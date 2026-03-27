@@ -48,8 +48,8 @@ export function FairLocation() {
                     Horário de Funcionamento
                   </h4>
                   <p className="text-stone-700 text-xs">
-                    <strong>Domingo a Domingo</strong><br />
-                    8h às 19h
+                    <strong>Segunda a Sábado:</strong> 08:00 às 19:00<br />
+                    <strong>Domingo:</strong> 08:00 às 12:00
                   </p>
                 </div>
               </div>
