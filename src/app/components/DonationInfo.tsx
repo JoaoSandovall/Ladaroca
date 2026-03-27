@@ -101,7 +101,7 @@ export function DonationInfo() {
                   Para quem precisa:
                 </h4>
                 <p className="text-stone-700 leading-relaxed">
-                  Os itens doados ficam disponíveis no balcão/prateleira. É só chegar e pegar o que for necessário para o seu uso.
+                  Basta solicitar ao funcionário no balcão. Ele fará a entrega dos itens disponíveis de forma organizada e privativa.
                 </p>
               </div>
 
@@ -110,20 +110,20 @@ export function DonationInfo() {
                   Para quem quer ajudar:
                 </h4>
                 <p className="text-stone-700 leading-relaxed">
-                  Basta deixar sua doação (cesta básica, agasalho, higiene) no ponto indicado.
+                  Entregue sua doação (cesta básica, agasalho ou higiene) diretamente a um de nossos colaboradores. Eles são responsáveis por organizar e armazenar os itens.
                 </p>
               </div>
 
               <div className="bg-white/60 rounded-xl p-6">
                 <h4 className="text-xl font-bold text-green-900 mb-3">
-                  Sem burocracia:
+                  Mediação e Organização:
                 </h4>
                 <p className="text-stone-700 leading-relaxed">
-                  A loja apenas cede o espaço para a comunidade se ajudar. A gestão é direta entre quem doa e quem precisa.
+                  Para garantir que as doações cheguem a quem realmente precisa, nossa equipe gerencia todo o fluxo de entrada e saída dos materiais.
                 </p>
               </div>
             </div>
-
+            
             <div className="grid sm:grid-cols-2 gap-6">
               {/* Location */}
               <div className="flex items-start gap-4">
