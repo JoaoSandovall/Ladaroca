@@ -1,5 +1,5 @@
 import { Heart } from 'lucide-react';
-import logoImage from '../../assets/8fa5730c85133c6e604c796be1ccf4e810fac86e.png';
+import logoImage from '../../assets/fotoLoja2.jpeg';
 import { Button } from './ui/button';
 import { motion } from 'motion/react';
 
@@ -42,7 +42,7 @@ export function Hero() {
                 <img 
                   src={logoImage} 
                   alt="Lá da Roça" 
-                  className="w-full h-full object-contain"
+                  className="w-full h-full object-cover"
                 />
               </div>
             </motion.div>
